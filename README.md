@@ -22,13 +22,10 @@ The dataset is provided in the repository and is used to train and evaluate the 
 
 ## Project Structure
 /Heart-Disease-Prediction
-│
-├── dataset/
-│   └── Heart Attack Data Set.csv     # Dataset containing patient information
-│
-├── src/
-│   └── project_report.ipynb  # Jupyter notebook with the project report and code
-│
-└── README.md                      # Project documentation
+// dataset/
+///Heart Attack Data Set.csv      # Dataset containing patient information
+// src/
+///project_report.ipynb           # Jupyter notebook with the project report and code
+// README.md                      # Project documentation
 
 
